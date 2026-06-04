@@ -1,3 +1,8 @@
+# Make a Dog class that stores their age, name, breed, color, gender
+# Create a new python file first-first.py and create that class in it.
+# Then create 4 dogs and put them all in a list.
+
+
 class Car:
     # year, make, model, color
     def __init__(self, year, make, model, color):
